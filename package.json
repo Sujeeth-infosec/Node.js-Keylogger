@@ -1,0 +1,16 @@
+{
+  "name": "node-keylogger",
+  "version": "1.0.0",
+  "description": "Simple node.js linux keylogger using events",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "start": "node examples/basic.js"
+  },
+  "keywords": ["keylogger", "linux", "events", "keyboard"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
